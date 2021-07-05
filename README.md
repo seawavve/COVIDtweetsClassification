@@ -1,8 +1,8 @@
 # COVIDtweetsClassification
 #NLP #BERT #TwitterData  
 COVID-19 tweets Classification NLP project🐦  
-  비정형 텍스트 데이터 처리를 해보고자 합시다!
-  <img src="https://github.com/seawavve/COVIDtweetsClassification/blob/main/confusionMatrix.png" width="150" height="150">
+  비정형 텍스트 데이터 처리를 해보고자 합시다!  
+  <img src="https://github.com/seawavve/COVIDtweetsClassification/blob/main/confusionMatrix.png" width="300" height="300">. 
   
   To-Do
   + 앙상블
