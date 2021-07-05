@@ -2,7 +2,7 @@
 #NLP #BERT #TwitterData  
 COVID-19 tweets Classification NLP project🐦  
   비정형 텍스트 데이터 처리를 해보고자 합시다!
-  ![](https://github.com/seawavve/COVIDtweetsClassification/blob/main/confusionMatrix.png){:width="50"}
+  ![](https://github.com/seawavve/COVIDtweetsClassification/blob/main/confusionMatrix.png) {: width="50"}
   
   To-Do
   + 앙상블
