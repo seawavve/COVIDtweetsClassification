@@ -13,5 +13,5 @@ COVID-19 tweets Classification NLP project🐦
   Kaggle - Coronavirus tweets NLP Text Classification  
   https://www.kaggle.com/datatattle/covid-19-nlp-text-classification
   
-  Method
-  BERT expert-SST2
+  Method  
+  BERT expert-SST2  
