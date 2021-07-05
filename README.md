@@ -9,8 +9,8 @@ COVID-19 tweets Classification NLP project🐦
   + GPT-2 사용
   + Cross Validation-XGBoost,Grid search ...
   
-  Dataset
-  Kaggle - Coronavirus tweets NLP Text Classification
+  Dataset  
+  Kaggle - Coronavirus tweets NLP Text Classification  
   https://www.kaggle.com/datatattle/covid-19-nlp-text-classification
   
   Method
